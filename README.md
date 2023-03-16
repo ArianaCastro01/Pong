@@ -17,7 +17,9 @@ A recreation of the classic Atari game Pong but with an AI enemy instead of 2 Pl
   
   # Link
   
-  [Play my game!](https://arianacastro01.itch.io/pong)
+  # [Play my game here!](https://arianacastro01.itch.io/pong)
+  
+  ![Pong](PongImg.png)
 
 # License
 This project is licensed under the GNU Affero General Public License v3.0 License - see the LICENSE.md file for details
