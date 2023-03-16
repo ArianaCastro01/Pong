@@ -15,9 +15,9 @@ A recreation of the classic Atari game Pong but with an AI enemy instead of 2 Pl
   
   </details>
   
-  # Link
-  
-  # [Play my game here!](https://arianacastro01.itch.io/pong)
+  ### <ins> Link Below </ins>
+  <a href="https://arianacastro01.itch.io/pong">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
   
   ![Pong](PongImg.png)
 
